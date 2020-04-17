@@ -1,5 +1,5 @@
 https://github.com/mohamed-abdelsadek91/devops.git
-https://circleci.com/gh/mohamed-abdelsadek91/devops/3
+[![CircleCI](https://circleci.com/gh/mohamed-abdelsadek91/devops.svg?style=svg)](https://circleci.com/gh/mohamed-abdelsadek91/devops)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
